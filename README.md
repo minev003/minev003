@@ -55,7 +55,8 @@ DevOps / Platforms:
   - Includes automatic reconnection and event handling.
 
 
-  [Urban Taste]  
+  
+  Urban Taste  
   - Web-based platform for complete restaurant management.  
   - Actively contributing to core features including order management (shopping cart), reservation system, and menu template design.  
   - Supports dine-in, delivery, takeaway, and pre-orders.  
