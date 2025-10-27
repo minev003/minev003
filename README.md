@@ -11,18 +11,26 @@ At the same time, I enjoy experimenting with new technologies and frameworks to 
 ### 🛠️ Tech Stack
 
 Frontend:
- - HTML, CSS/SCSS, Bootstrap, Leaflet
- - JavaScript, TypeScript,
- - React, Next.js
+ - HTML
+ - CSS/SCSS
+ - Bootstrap
+ - Leaflet
+ - JavaScript
+ - TypeScript
+ - React
+ - Next.js
 
 Backend:
- - Node.js, Express.js
- - PHP, Laravel
+ - Node.js
+ - Express.js
+ - PHP
+ - Laravel
  - REST API (Fetch API, CRUD, JSON)
  - Telegram Bot
 
 Databases:
- - MySQL, MongoDB
+ - MySQL
+ - MongoDB
  - Prisma ORM
 
 Libraries & Tools:
