@@ -8,7 +8,7 @@ In my free time, I'm naturally curious and often ask myself how things work and 
 I've spent the most time working with **JavaScript**, **Next.js**, and **TypeScript**, building projects and exploring best practices.
 At the same time, I enjoy experimenting with new technologies and frameworks to constantly expand my skills.
 
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 Frontend:
  - HTML, CSS/SCSS, Bootstrap, Leaflet
