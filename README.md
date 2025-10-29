@@ -1,7 +1,7 @@
 ## Hi, I'm Ivaylo 👋
 
-🚀 Motivated developer curious about how things work under the hood.
-Always eager to learn new skills, experiment with technologies, and improve through hands-on projects.
+🚀 I'm a motivated developer curious about how things work under the hood.
+I'm always eager to learn new skills, experiment with new technologies, and grow through hands-on projects.
 
 In my free time, I'm naturally curious and often ask myself how things work and why they work that way.
 
